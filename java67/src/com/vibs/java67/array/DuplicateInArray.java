@@ -16,7 +16,7 @@ public class DuplicateInArray {
 				found= false;
 			}
 		}
-		// best way to remove duplicate value in array...
+		//  best way to remove duplicate value in array...
 		System.out.print(" "+current);*/
 		for (int i = 0; i < size; i++) {
 			for (int j = 1; j < size; j++) {
