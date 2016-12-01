@@ -8,7 +8,8 @@ public class NumberTringle {
 		
 		Scanner sn = new Scanner(System.in);
 		System.out.print("Enter the no of row - ");
-		int noOfRow = sn.nextInt(); 
+		int noOfRow = sn.nextInt();
+		int rowCount = 1;
 	}
 
 }
