@@ -14,7 +14,7 @@ public class NumberTringle {
 	        {
 	            //Printing i spaces at the beginning of each row
 	 
-	            for (int j = 1; j <= i; j++)
+	           for (int j = 1; j <= i; j++)
 	            {
 	                System.out.print(" ");
 	            }
